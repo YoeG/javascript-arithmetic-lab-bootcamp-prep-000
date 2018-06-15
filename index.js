@@ -53,3 +53,12 @@ function makeInt (n)
   return parseInt(n)
   
 }
+
+
+function divide (a,b)
+
+{
+  
+  return a /= b
+  
+}
